@@ -1,0 +1,50 @@
+* {
+    background-color: rgb(132, 176, 233);
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    color: rgb(195, 4, 4);
+} 
+footer {
+    color: white;
+    position: relative;
+    bottom: 250px;
+}
+big {
+    color: white;
+}
+input {
+    background-color: rgb(159, 156, 156);
+    color: rgb(0, 0, 0);
+}
+th {
+    color: rgb(195, 4, 4);
+    padding: 10px;
+}
+td {
+    color: white;
+    padding: 10px;
+}
+::placeholder {
+    color: black;
+}
+caption {
+    color: white;
+    position: relative;
+    bottom: 119px;
+    font-size: large;
+}
+table {
+    position: absolute;
+    top: 400px;
+}
+div {
+    display: inline-block;
+    position:relative;
+    left: 550px;
+    bottom: 310px;
+}
+#submit {
+    background-color: rgb(190, 39, 39);
+}
